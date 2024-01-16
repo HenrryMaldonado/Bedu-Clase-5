@@ -1,6 +1,6 @@
 
 Usage:   
-  C:\Users\Henrry Maldonado\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\python.exe -m pip <command> [options]
+  C:\Users\Henrry Maldonado\Desktop\Posgrado\Python\Calse 5\.venv\Scripts\python.exe -m pip <command> [options]
 
 Commands:
   install                     Install packages.
